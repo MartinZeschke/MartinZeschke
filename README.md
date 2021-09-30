@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MartinZeschke
+- 👀 I’m interested in (work and organizational) psychology and statistics.
+- 🌱 I’m currently learning coding in R
+- 📫 You can follow me on twitter <a href="https://twitter.com/MartinZeschke">@MartinZeschke</a> and send me a message.
